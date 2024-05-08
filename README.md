@@ -1,2 +1,2 @@
 # CA4LTR
-Cross-Attention in Long-Tail Recognition
+We developed a new network architecture that leverages image and text modalities, enhancing feature learning for long-tailed datasets. Our research shows that combining pre-trained image and text models via cross-modal attention compensates for the individual limitations of each model, significantly boosting long-tail recognition accuracy. Further experiments explored how text quality affects the model’s performance and identified key factors influencing multimodal model effectiveness. After the paper is accepted, we will release the code.
